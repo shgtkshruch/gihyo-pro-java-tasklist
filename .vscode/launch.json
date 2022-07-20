@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-TaskListApplication<tasklist>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "jp.gihyo.projava.tasklist.TaskListApplication",
+      "projectName": "tasklist",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
